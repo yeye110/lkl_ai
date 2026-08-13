@@ -1,0 +1,502 @@
+[
+  {
+    "model": "iqoo-10",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo10",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo10/"
+  },
+  {
+    "model": "iqoo-10pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo10pro",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo10pro/"
+  },
+  {
+    "model": "iqoo-11",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo11",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo11/"
+  },
+  {
+    "model": "iqoo-11pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo11pro",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo11pro/"
+  },
+  {
+    "model": "iqoo-11s",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo11s",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo11s/"
+  },
+  {
+    "model": "iqoo-12",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo12",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo12/"
+  },
+  {
+    "model": "iqoo-12pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo12pro",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo12pro/"
+  },
+  {
+    "model": "iqoo-13",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo13",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo13/"
+  },
+  {
+    "model": "iqoo-15",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo15",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo15/"
+  },
+  {
+    "model": "iqoo-8",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo8",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo8/"
+  },
+  {
+    "model": "iqoo-9",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo9",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo9/"
+  },
+  {
+    "model": "iqoo-9pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo9pro",
+    "product_url": "https://www.vivo.com.cn/vivo/iqoo9pro/"
+  },
+  {
+    "model": "iqoo-neo10pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo10pro",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooneo10pro/"
+  },
+  {
+    "model": "iqoo-neo10proplus",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo10proplus",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooneo10proplus/"
+  },
+  {
+    "model": "iqoo-neo11",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo11",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooneo11"
+  },
+  {
+    "model": "iqoo-z10turbo",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz10turbo",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooz10turbo/"
+  },
+  {
+    "model": "iqoo-z10turboplus",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz10turboplus",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooz10turboplus/"
+  },
+  {
+    "model": "iqoo-z10turbopro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz10turbopro",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooz10turbopro/"
+  },
+  {
+    "model": "iqoo-z10x",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz10x",
+    "product_url": "https://www.vivo.com.cn/vivo/iqooz10x/"
+  },
+  {
+    "model": "iqoo3",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo3",
+    "product_url": "https://www.vivo.com.cn/product/iqoo3"
+  },
+  {
+    "model": "iqoo5",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo5",
+    "product_url": "https://www.vivo.com.cn/product/iqoo5"
+  },
+  {
+    "model": "iqoo7",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo7",
+    "product_url": "https://www.vivo.com.cn/product/iqoo7"
+  },
+  {
+    "model": "iqoo8pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqoo8pro",
+    "product_url": "https://www.vivo.com.cn/product/iqoo8pro"
+  },
+  {
+    "model": "iqooneo5",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo5",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo5"
+  },
+  {
+    "model": "iqooneo6",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo6",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo6"
+  },
+  {
+    "model": "iqooneo7",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo7",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo7"
+  },
+  {
+    "model": "iqooneo8",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo8",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo8"
+  },
+  {
+    "model": "iqooneo8pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo8pro",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo8pro"
+  },
+  {
+    "model": "iqooneo9",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo9",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo9"
+  },
+  {
+    "model": "iqooneo9pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooneo9pro",
+    "product_url": "https://www.vivo.com.cn/product/iqooneo9pro"
+  },
+  {
+    "model": "iqooz6",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz6",
+    "product_url": "https://www.vivo.com.cn/product/iqooz6"
+  },
+  {
+    "model": "iqooz7",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz7",
+    "product_url": "https://www.vivo.com.cn/product/iqooz7"
+  },
+  {
+    "model": "iqooz8",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz8",
+    "product_url": "https://www.vivo.com.cn/product/iqooz8"
+  },
+  {
+    "model": "iqooz9",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz9",
+    "product_url": "https://www.vivo.com.cn/product/iqooz9"
+  },
+  {
+    "model": "iqooz9x",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/iqooz9x",
+    "product_url": "https://www.vivo.com.cn/product/iqooz9x"
+  },
+  {
+    "model": "s12",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s12",
+    "product_url": "https://www.vivo.com.cn/product/s12"
+  },
+  {
+    "model": "s12pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s12pro",
+    "product_url": "https://www.vivo.com.cn/product/s12pro"
+  },
+  {
+    "model": "s15",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s15",
+    "product_url": "https://www.vivo.com.cn/product/s15"
+  },
+  {
+    "model": "s15pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s15pro",
+    "product_url": "https://www.vivo.com.cn/product/s15pro"
+  },
+  {
+    "model": "s16",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s16",
+    "product_url": "https://www.vivo.com.cn/product/s16"
+  },
+  {
+    "model": "s16pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s16pro",
+    "product_url": "https://www.vivo.com.cn/vivo/s16pro/"
+  },
+  {
+    "model": "s17",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s17",
+    "product_url": "https://www.vivo.com.cn/vivo/s17/"
+  },
+  {
+    "model": "s17e",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s17e",
+    "product_url": "https://www.vivo.com.cn/vivo/s17e/"
+  },
+  {
+    "model": "s17pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s17pro",
+    "product_url": "https://www.vivo.com.cn/vivo/s17pro/"
+  },
+  {
+    "model": "s18",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s18",
+    "product_url": "https://www.vivo.com.cn/vivo/s18/"
+  },
+  {
+    "model": "s18e",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s18e",
+    "product_url": "https://www.vivo.com.cn/vivo/s18e/"
+  },
+  {
+    "model": "s18pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s18pro",
+    "product_url": "https://www.vivo.com.cn/vivo/s18pro/"
+  },
+  {
+    "model": "s19",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s19",
+    "product_url": "https://www.vivo.com.cn/vivo/s19/"
+  },
+  {
+    "model": "s19pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s19pro",
+    "product_url": "https://www.vivo.com.cn/vivo/s19pro/"
+  },
+  {
+    "model": "s20",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s20",
+    "product_url": "https://www.vivo.com.cn/vivo/s20/"
+  },
+  {
+    "model": "s20pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s20pro",
+    "product_url": "https://www.vivo.com.cn/vivo/s20pro/"
+  },
+  {
+    "model": "s30",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s30",
+    "product_url": "https://www.vivo.com.cn/vivo/s30/"
+  },
+  {
+    "model": "s30promini",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/s30promini",
+    "product_url": "https://www.vivo.com.cn/vivo/s30promini/"
+  },
+  {
+    "model": "t1",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/t1",
+    "product_url": "https://www.vivo.com.cn/vivo/t1/"
+  },
+  {
+    "model": "t1x",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/t1x",
+    "product_url": "https://www.vivo.com.cn/vivo/t1x/"
+  },
+  {
+    "model": "t2",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/t2",
+    "product_url": "https://www.vivo.com.cn/product/t2"
+  },
+  {
+    "model": "t2x",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/t2x",
+    "product_url": "https://www.vivo.com.cn/vivo/t2x/"
+  },
+  {
+    "model": "x100",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x100",
+    "product_url": "https://www.vivo.com.cn/product/x100"
+  },
+  {
+    "model": "x100pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x100pro",
+    "product_url": "https://www.vivo.com.cn/product/x100pro"
+  },
+  {
+    "model": "x100s",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x100s",
+    "product_url": "https://www.vivo.com.cn/vivo/x100s/"
+  },
+  {
+    "model": "x100spro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x100spro",
+    "product_url": "https://www.vivo.com.cn/vivo/x100spro/"
+  },
+  {
+    "model": "x100ultra",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x100ultra",
+    "product_url": "https://www.vivo.com.cn/vivo/x100ultra/"
+  },
+  {
+    "model": "x200",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x200",
+    "product_url": "https://www.vivo.com.cn/vivo/x200/"
+  },
+  {
+    "model": "x200pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x200pro",
+    "product_url": "https://www.vivo.com.cn/vivo/x200pro/"
+  },
+  {
+    "model": "x200promini",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x200promini",
+    "product_url": "https://www.vivo.com.cn/vivo/x200promini/"
+  },
+  {
+    "model": "x200s",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x200s",
+    "product_url": "https://www.vivo.com.cn/vivo/x200s/"
+  },
+  {
+    "model": "x200ultra",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x200ultra",
+    "product_url": "https://www.vivo.com/vivo/x200ultra/"
+  },
+  {
+    "model": "x300",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x300",
+    "product_url": "https://www.vivo.com.cn/vivo/x300/"
+  },
+  {
+    "model": "x300pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x300pro",
+    "product_url": "https://www.vivo.com.cn/vivo/x300pro/"
+  },
+  {
+    "model": "x60",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x60",
+    "product_url": "https://www.vivo.com.cn/product/x60"
+  },
+  {
+    "model": "x60pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x60pro",
+    "product_url": "https://www.vivo.com.cn/product/x60pro"
+  },
+  {
+    "model": "x70",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x70",
+    "product_url": "https://www.vivo.com.cn/product/x70"
+  },
+  {
+    "model": "x70pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x70pro",
+    "product_url": "https://www.vivo.com.cn/product/x70pro"
+  },
+  {
+    "model": "x80",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x80",
+    "product_url": "https://www.vivo.com.cn/product/x80"
+  },
+  {
+    "model": "x80pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x80pro",
+    "product_url": "https://www.vivo.com.cn/product/x80pro"
+  },
+  {
+    "model": "x90",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x90",
+    "product_url": "https://www.vivo.com.cn/product/x90"
+  },
+  {
+    "model": "x90pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x90pro",
+    "product_url": "https://www.vivo.com.cn/product/x90pro"
+  },
+  {
+    "model": "x90pro+",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/x90pro+",
+    "product_url": "https://www.vivo.com.cn/product/x90pro+"
+  },
+  {
+    "model": "xfold3",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/xfold3",
+    "product_url": "https://www.vivo.com.cn/vivo/xfold3/"
+  },
+  {
+    "model": "xfold3pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/xfold3pro",
+    "product_url": "https://www.vivo.com.cn/vivo/xfold3pro/"
+  },
+  {
+    "model": "xfold5",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/xfold5",
+    "product_url": "https://www.vivo.com.cn/vivo/xfold5/"
+  },
+  {
+    "model": "y100",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y100",
+    "product_url": "https://www.vivo.com.cn/product/y100"
+  },
+  {
+    "model": "y100t",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y100t",
+    "product_url": "https://www.vivo.com.cn/product/y100t"
+  },
+  {
+    "model": "y200",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y200",
+    "product_url": "https://www.vivo.com.cn/product/y200"
+  },
+  {
+    "model": "y200t",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y200t",
+    "product_url": "https://www.vivo.com.cn/vivo/y200t/"
+  },
+  {
+    "model": "y300",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y300",
+    "product_url": "https://www.vivo.com.cn/vivo/y300/"
+  },
+  {
+    "model": "y300gt",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y300gt",
+    "product_url": "https://www.vivo.com.cn/vivo/y300GT/"
+  },
+  {
+    "model": "y300i",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y300i",
+    "product_url": "https://www.vivo.com.cn/vivo/y300i/"
+  },
+  {
+    "model": "y300pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y300pro",
+    "product_url": "https://www.vivo.com.cn/vivo/y300pro/"
+  },
+  {
+    "model": "y300proplus",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y300proplus",
+    "product_url": "https://www.vivo.com.cn/vivo/y300proplus/"
+  },
+  {
+    "model": "y300t",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y300t",
+    "product_url": "https://www.vivo.com.cn/vivo/y300t/"
+  },
+  {
+    "model": "y37",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y37",
+    "product_url": "https://www.vivo.com.cn/vivo/y37/"
+  },
+  {
+    "model": "y37m",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y37m",
+    "product_url": "https://www.vivo.com.cn/vivo/y37m/"
+  },
+  {
+    "model": "y37pro",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y37pro",
+    "product_url": "https://www.vivo.com.cn/vivo/y37pro/"
+  },
+  {
+    "model": "y500",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y500",
+    "product_url": "https://www.vivo.com.cn/vivo/y500/"
+  },
+  {
+    "model": "y505g",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y505g",
+    "product_url": "https://www.vivo.com.cn/vivo/y505G/"
+  },
+  {
+    "model": "y50m5g",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y50m5g",
+    "product_url": "https://www.vivo.com.cn/vivo/y50m5G/"
+  },
+  {
+    "model": "y70",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y70",
+    "product_url": "https://www.vivo.com.cn/product/y70"
+  },
+  {
+    "model": "y80",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y80",
+    "product_url": "https://www.vivo.com.cn/product/y80"
+  },
+  {
+    "model": "y90",
+    "specs_url": "https://www.vivo.com.cn/vivo/param/y90",
+    "product_url": "https://www.vivo.com.cn/product/y90"
+  }
+]

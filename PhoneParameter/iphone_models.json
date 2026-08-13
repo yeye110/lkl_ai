@@ -1,0 +1,22 @@
+[
+  {
+    "model": "iphone-16",
+    "url": "https://www.apple.com.cn/iphone-16/specs/"
+  },
+  {
+    "model": "iphone-16e",
+    "url": "https://www.apple.com.cn/iphone-16e/specs/"
+  },
+  {
+    "model": "iphone-17",
+    "url": "https://www.apple.com.cn/iphone-17/specs/"
+  },
+  {
+    "model": "iphone-17-pro",
+    "url": "https://www.apple.com.cn/iphone-17-pro/specs/"
+  },
+  {
+    "model": "iphone-air",
+    "url": "https://www.apple.com.cn/iphone-air/specs/"
+  }
+]
